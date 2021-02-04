@@ -1,2 +1,2 @@
-# Car-Racing-v0-PG
-Solving car racing environment with PG
+# Car-Racing-v0-RL
+Solving car racing environment
